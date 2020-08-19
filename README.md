@@ -25,3 +25,6 @@
     * [Extension Functions](/src/lesson5/extensionfunctions)
 - Lesson 6
     * [Higher-Order Functions](/src/lesson6)
+
+# Contact
+Created by [@merklol](https://www.facebook.com/merk.merklol) - feel free to contact me!
