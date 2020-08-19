@@ -1,6 +1,6 @@
-# Kotlin Bootcamp for Programmers.
+# Kotlin Bootcamp for Programmers
 
->Solutions for a Kotlin Bootcamp online course by Google.
+>Solutions for a Kotlin Bootcamp online course by Google
 
 # Table of Contents
 - Lesson 2
